@@ -13,7 +13,7 @@ def dividir(a, b):
     return a / b
 
 
-print("=== Calculadora Simples ===")
+print("=== Calculadora Simples  (segunda alteração)===")
 
 while True:
     print("\nEscolha uma operação:")
